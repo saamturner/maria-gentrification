@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "saamturner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "saamturner",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-05-01T23:23:49.266Z",
-    "updated_at": "2025-05-01T23:23:49.266Z"
-  }
+    "updated_at": "2025-05-01T23:23:49.266Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "8bfa0857-d6e2-40d3-884f-08052c89ce76": {
+      "content": [],
+      "created_at": "2025-05-01T23:23:49.292Z",
+      "created_by": "saamturner",
+      "title": "Gentrification Podcast and Annotations by Maria",
+      "updated_at": "2025-05-01T23:23:49.292Z",
+      "updated_by": "saamturner",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "8bfa0857-d6e2-40d3-884f-08052c89ce76"
+  ]
 }
